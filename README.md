@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Deepak04102/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Deepak04102/Leetcode/tree/master/0066-plus-one) |
 ## String Matching
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepak04102/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Deepak04102/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Deepak04102/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
