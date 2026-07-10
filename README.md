@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Deepak04102/Leetcode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/Deepak04102/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Deepak04102/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Deepak04102/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak04102/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Deepak04102/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Deepak04102/Leetcode/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepak04102/Leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Deepak04102/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
