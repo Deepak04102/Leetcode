@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Deepak04102/Leetcode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak04102/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Deepak04102/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deepak04102/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak04102/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Deepak04102/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Deepak04102/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak04102/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Deepak04102/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Deepak04102/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Deepak04102/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Deepak04102/Leetcode/tree/master/0066-plus-one) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Deepak04102/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Deepak04102/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepak04102/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String Matching
 |  |
