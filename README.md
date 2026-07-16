@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Deepak04102/Leetcode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak04102/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1768-merge-strings-alternately](https://github.com/Deepak04102/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Deepak04102/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Deepak04102/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1768-merge-strings-alternately](https://github.com/Deepak04102/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak04102/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Deepak04102/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Deepak04102/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
