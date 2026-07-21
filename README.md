@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Deepak04102/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Deepak04102/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak04102/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak04102/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepak04102/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Deepak04102/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
