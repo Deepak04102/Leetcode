@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Deepak04102/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak04102/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Deepak04102/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0896-monotonic-array](https://github.com/Deepak04102/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Deepak04102/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepak04102/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak04102/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
