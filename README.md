@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Deepak04102/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak04102/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Deepak04102/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3019-number-of-changing-keys](https://github.com/Deepak04102/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Deepak04102/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
