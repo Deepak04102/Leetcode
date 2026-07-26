@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepak04102/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak04102/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak04102/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepak04102/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak04102/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Deepak04102/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0896-monotonic-array](https://github.com/Deepak04102/Leetcode/tree/master/0896-monotonic-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepak04102/Leetcode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepak04102/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Deepak04102/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1051-height-checker](https://github.com/Deepak04102/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Deepak04102/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Deepak04102/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Deepak04102/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Deepak04102/Leetcode/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Deepak04102/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Deepak04102/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak04102/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepak04102/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
