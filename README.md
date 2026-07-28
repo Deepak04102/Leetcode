@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Deepak04102/Leetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Deepak04102/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Deepak04102/Leetcode/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak04102/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Deepak04102/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak04102/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak04102/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak04102/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Deepak04102/Leetcode/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/Deepak04102/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Deepak04102/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Deepak04102/Leetcode/tree/master/0231-power-of-two) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak04102/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
