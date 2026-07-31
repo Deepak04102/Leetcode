@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/Deepak04102/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak04102/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Deepak04102/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Deepak04102/Leetcode/tree/master/1534-count-good-triplets) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak04102/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Deepak04102/Leetcode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak04102/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Deepak04102/Leetcode/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Deepak04102/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Deepak04102/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Deepak04102/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak04102/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak04102/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak04102/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Deepak04102/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Deepak04102/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak04102/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Deepak04102/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Deepak04102/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepak04102/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
