@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak04102/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak04102/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak04102/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak04102/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Deepak04102/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2706-buy-two-chocolates](https://github.com/Deepak04102/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepak04102/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Deepak04102/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepak04102/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak04102/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepak04102/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Deepak04102/Leetcode/tree/master/3731-find-missing-elements) |
 ## Trie
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak04102/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Deepak04102/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak04102/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2706-buy-two-chocolates](https://github.com/Deepak04102/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepak04102/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Deepak04102/Leetcode/tree/master/3731-find-missing-elements) |
@@ -219,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Deepak04102/Leetcode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Deepak04102/Leetcode/tree/master/1534-count-good-triplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak04102/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepak04102/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Deepak04102/Leetcode/tree/master/0231-power-of-two) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak04102/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
