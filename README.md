@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak04102/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak04102/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak04102/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepak04102/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Deepak04102/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Deepak04102/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2706-buy-two-chocolates](https://github.com/Deepak04102/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/Deepak04102/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak04102/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepak04102/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Deepak04102/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepak04102/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/Deepak04102/Leetcode/tree/master/3019-number-of-changing-keys) |
@@ -247,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Deepak04102/Leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Deepak04102/Leetcode/tree/master/0867-transpose-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepak04102/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
