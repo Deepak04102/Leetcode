@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Deepak04102/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Deepak04102/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2706-buy-two-chocolates](https://github.com/Deepak04102/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Deepak04102/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepak04102/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Deepak04102/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Deepak04102/Leetcode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Deepak04102/Leetcode/tree/master/1534-count-good-triplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Deepak04102/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Deepak04102/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepak04102/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
