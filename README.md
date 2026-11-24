@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak04102/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Deepak04102/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Deepak04102/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Deepak04102/Leetcode/tree/master/1534-count-good-triplets) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Deepak04102/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Deepak04102/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Deepak04102/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak04102/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Deepak04102/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2706-buy-two-chocolates](https://github.com/Deepak04102/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deepak04102/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Deepak04102/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepak04102/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Deepak04102/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2706-buy-two-chocolates](https://github.com/Deepak04102/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepak04102/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
